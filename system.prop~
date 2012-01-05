@@ -1,0 +1,3 @@
+ro.config.disable_hw_accel=true
+ro.sf.hwrotation=270
+
